@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Lian
+
+I'm a sophomore at Northwestern University pursuing a 4-year concurrent BA/MS in Computer Science.
+
+I am interested in full stack development, deep learning research, and, right now, computer systems. You can find out more about what I've worked on at [my website](lianhaoz.netlify.app)!
+
+📭 Need to reach me? Shoot me an email at [Lianzheng@u.northwestern.edu](Lianzheng@u.northwestern.edu)
 
 <!--
 **LianhaoZ/LianhaoZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
