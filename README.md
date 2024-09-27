@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lian
 
-I'm a sophomore at Northwestern University pursuing a 4-year concurrent BA/MS in Computer Science.
+I'm a junior at Northwestern University pursuing a 4-year concurrent BA/MS in Computer Science.
 
 I am interested in full stack development, Machine Learning research, and computer systems. You can find out more about what I've worked on at [my website](https://lianhaoz.netlify.app)!
 
