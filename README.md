@@ -2,7 +2,7 @@
 
 I'm a junior at Northwestern University pursuing a 4-year concurrent BA/MS in Computer Science.
 
-I am interested in Full Stack Development, Cybersecurity, and Computer Systems. You can find out more about what I've worked on at [my website](https://lianhaoz.netlify.app)!
+I am interested in Software Development, Cybersecurity, and Computer Systems. You can find out more about what I've worked on at [my website](https://lianhaoz.netlify.app)!
 
 📫 Need to reach me? Shoot me an email at [Lianzheng@u.northwestern.edu](mailto:Lianzheng@u.northwestern.edu)
 
